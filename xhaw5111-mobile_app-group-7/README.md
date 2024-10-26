@@ -1,11 +1,18 @@
-# Sample Snack app
+Empowering The Nation
+    Empowering the Nation is an organization dedicated to providing skills training for domestic workers and gardeners, helping them to become more marketable and secure       better-paying opportunities. This website provides information on various six-month and six-week courses, course descriptions, pricing details, contact information,        and an easy-to-navigate user interface for potential clients..
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Features
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+    Course Catalog: Browse six-month and six-week courses.
+    Course Search: Find courses by keyword.
+    Course Details: View detailed information about each course.
+    Add to Cart: Add courses to your cart to purchase later.
+    Calculate Fees: Determine the cost of selected courses.
+    Navigation: Navigate between Home, Cart, and Orders using the bottom navigation bar.
+     
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Technologies Used
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+    React Native: For building the mobile app.
+    TypeScript: For type safety and improved development workflow.
+    Expo: To streamline development and deployment.
