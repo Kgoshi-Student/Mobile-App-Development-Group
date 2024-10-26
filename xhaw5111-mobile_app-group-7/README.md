@@ -3,10 +3,15 @@ Empowering the Nation is an organization dedicated to providing skills training 
 
 # Features
 Course Catalog: Browse six-month and six-week courses
+
 Course Search: Find courses by keyword.
+
 Course Details: View detailed information about each course.
+
 Add to Cart: Add courses to your cart to purchase later.
+
 Calculate Fees: Determine the cost of selected courses.
+
 Navigation: Navigate between Home, Cart, and Orders using the bottom navigation bar.
      
 
