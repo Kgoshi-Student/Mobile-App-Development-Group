@@ -15,8 +15,8 @@ Empowering the Nation is an organization dedicated to providing skills training 
      
 
 # Technologies Used
-React Native: For building the mobile app.
+- React Native: For building the mobile app.
 
-TypeScript: For type safety and improved development workflow.
+- TypeScript: For type safety and improved development workflow.
 
-Expo: To streamline development and deployment.
+- Expo: To streamline development and deployment.
