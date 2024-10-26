@@ -12,5 +12,7 @@ Navigation: Navigate between Home, Cart, and Orders using the bottom navigation 
 
 # Technologies Used
 React Native: For building the mobile app.
+
 TypeScript: For type safety and improved development workflow.
+
 Expo: To streamline development and deployment.
